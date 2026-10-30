@@ -1,7 +1,6 @@
-
 {
-  "version": "1.0.1",
-  "installer_url": "https://github.com/poderdacompra01-source/AUTEDUX-ATUALIZACOES/releases/download/v1.0.1/Instalar_AUTEDUX_Professor_v1_0_1.exe",
-  "sha256": "18b4333af47c11a33a97fb7fb957ab68d1a4ced4364fcad57def6997c764278a",
-  "notes": "AUTEDUX Professor — Versão 1.0.1\n\nNovidades e melhorias:\n\n- Integração com o sistema de atualizações pela internet.\n- Verificação automática de novas versões.\n- Melhorias na identificação da versão do aplicativo.\n- Preparação para futuras atualizações.\n- Ajustes de estabilidade e instalação no Windows.\n- Preservação dos planos de aula, planejamentos, licenciamento e pagamentos Pix.\n\nAUTEDUX — Educação, organização e resultado."
+  "version": "1.0.2",
+  "installer_url": "https://github.com/poderdacompra01-source/AUTEDUX-ATUALIZACOES/releases/download/v1.0.2/Instalar_AUTEDUX_Professor_v1_0_2.exe",
+  "sha256": "d7489c7a8482a223ed36f981a52aab6721a848ee75290eb71b5ae6ee5ddd4ef9",
+  "notes": "AUTEDUX Professor — Nova atualização v1.0.2\n\nTemos novidades para você!\n\n✅ Múltiplas aulas: agora é possível registrar duas ou mais aulas utilizando um único plano, sem precisar repetir o conteúdo.\n\n✅ Registro de Todas as Aulas: melhorias no processamento de vários planos em sequência.\n\n✅ Estabilidade: correções e melhorias para proporcionar uma experiência mais prática e confiável.\n\nRecomendamos atualizar para a versão 1.0.2 para aproveitar as melhorias.\n\nAUTEDUX — Educação, organização e resultado."
 }
