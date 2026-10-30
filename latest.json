@@ -1,7 +1,6 @@
-
 {
-  "version": "1.0.0",
-  "installer_url": "https://github.com/poderdacompra01-source/AUTEDUX-ATUALIZACOES/releases/download/v1.0.1/Instalar_AUTEDUX_Professor_v1_0_1.exe",
-  "sha256": "eeae0ca6fb2e0a8fde9f5c169030001bd60d0435914bb02bd810b0679ae536c6",
-  "notes": "AUTEDUX Professor 1.0.1 - Integracao com atualizacoes pela internet, verificacao pelo GitHub e melhorias na identificacao da versao."
+  "version": "1.0.1",
+  "installer_url": "https://github.com/poderdacompra01-source/AUTEDUX-ATUALIZACOES/releases/download/untagged-ffffc65cf737a1dd4bb0/Instalar_AUTEDUX_Professor_v1_0_1.exe",
+  "sha256": "18b4333af47c11a33a97fb7fb957ab68d1a4ced4364fcad57def6997c764278a",
+  "notes": "**AUTEDUX Professor — Versão 1.0.1**\n\n**Novidades e melhorias:**\n\n- Integração com o sistema de atualizações pela internet.\n- Verificação automática de novas versões.\n- Melhorias na identificação da versão do aplicativo.\n- Preparação para futuras atualizações.\n- Ajustes de estabilidade e instalação no Windows.\n- Preservação dos planos de aula, planejamentos, licenciamento e pagamentos Pix.\n\n**AUTEDUX — Educação, organização e resultado.**"
 }
